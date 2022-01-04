@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ashrith G
+- 👀 I’m interested in collaboration
+- 🌱 I’m currently learning DSA
+- 📫 How to reach me - ashrithg316@gmail.com
